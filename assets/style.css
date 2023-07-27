@@ -1,6 +1,6 @@
 *,body{
     margin: 0;
-    padding: 0;
+    padding: 20px;
     box-sizing: border-box;
 }
 a{
@@ -19,3 +19,4 @@ li{
     --text-primary: #000000;
     --text-white: #ffffff;
 }
+

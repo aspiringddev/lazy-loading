@@ -1,0 +1,21 @@
+*,body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+:focus{
+    outline: none;
+}
+:root{
+    --primary-color: #80BB01;
+    --secondary-color: #F48241;
+    --text-light: #82897B;
+    --text-primary: #000000;
+    --text-white: #ffffff;
+}
